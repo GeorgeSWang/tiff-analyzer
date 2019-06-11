@@ -1,5 +1,5 @@
 import numpy as np
-from PIL import Image
+from pillow import Image
 
 
 def tiff_to_nparray(f):
